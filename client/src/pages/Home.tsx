@@ -377,11 +377,11 @@ export default function Home() {
               <div className="flex gap-4">
                 <a href="tel:555-123-4567" className="flex items-center gap-2 text-lg hover:text-accent transition-colors duration-150">
                   <Phone className="h-5 w-5" />
-                  (555) 123-4567
+                  555-555-5555
                 </a>
                 <a href="mailto:hello@example.com" className="flex items-center gap-2 text-lg hover:text-accent transition-colors duration-150">
                   <Mail className="h-5 w-5" />
-                  hello@example.com
+                  contacts@heartlandservicegroup.com
                 </a>
               </div>
             </div>
