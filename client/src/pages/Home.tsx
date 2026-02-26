@@ -41,13 +41,20 @@ export default function Home() {
                   See How It Works
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
-                <Button 
-                  size="lg" 
-                  variant="outline"
-                  className="brutalist-border bg-transparent text-foreground hover:bg-muted transition-colors duration-150 text-lg px-8 py-6"
-                >
-                  View Example Sites
-                </Button>
+                <a
+  href="https://flowrightplum-hdsn4bdf.manus.space/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block"   // keeps button styling intact
+>
+  <Button
+    size="lg"
+    variant="outline"
+    className="brutalist-border bg-transparent text-foreground hover:bg-muted transition-colors duration-150 text-lg px-8 py-6"
+  >
+    View Example Sites
+  </Button>
+</a>
               </div>
             </div>
             <div className="relative">
