@@ -4,7 +4,7 @@ import React from 'react';
  * Heartland Sites — Websites for Local Service Businesses
  * Design overwritten via user-provided HTML design.
  * Preserving contact info:
- * - Phone: 555-555-5555
+ * - Phone: (515) 732-0833
  * - Email: contacts@heartlandservicegroup.com
  * - Meeting: https://calendly.com/contacts-heartlandservicegroup/30min
  */
@@ -523,7 +523,7 @@ const Home: React.FC = () => {
               </div>
               <div className="mock-phone">
                 <span>Call us anytime</span>
-                555-555-5555
+                (515) 732-0833
               </div>
             </div>
           </div>
@@ -707,7 +707,7 @@ const Home: React.FC = () => {
         <strong className="text-[#1B2A3B] font-serif">Heartland Sites</strong> — Built for local businesses. Simple, fast, yours.
         <br /><br />
         <div className="flex justify-center gap-4 mb-4">
-          <a href="tel:555-555-5555" className="hover:text-[#B5431A]">555-555-5555</a>
+          <a href="tel:(515) 732-0833" className="hover:text-[#B5431A]">(515) 732-0833</a>
           <a href="mailto:contacts@heartlandservicegroup.com" className="hover:text-[#B5431A]">contacts@heartlandservicegroup.com</a>
         </div>
         <span className="opacity-60">© 2026 Heartland Service Group &nbsp;·&nbsp; heartlandservicegroup.com</span>
