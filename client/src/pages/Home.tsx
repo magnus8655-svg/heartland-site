@@ -662,7 +662,7 @@ const Home: React.FC = () => {
                 <p className="pricing-card-name">Hosting + editor</p>
               </div>
               <div className="pricing-amount">
-                <p className="amount">$20</p>
+                <p className="amount">$8</p>
                 <p className="freq">per month</p>
               </div>
             </div>
