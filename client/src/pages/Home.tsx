@@ -670,29 +670,7 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      <section className="testimonials-bg">
-        <div className="testimonials-inner">
-          <p className="section-label text-center">What people say</p>
-          <h2 className="section-title text-[#1B2A3B]">Real businesses, real results</h2>
-          <div className="testimonials-grid">
-            <div className="testimonial-card">
-              <div className="stars"><div className="star"></div><div className="star"></div><div className="star"></div><div className="star"></div><div className="star"></div></div>
-              <p className="testimonial-text">"I got calls from two new customers the first week my site went up. I'd been putting off getting a website for years — I had no idea it would be this easy."</p>
-              <p className="testimonial-author"><strong>Mike D.</strong>Plumber, Dallas County</p>
-            </div>
-            <div className="testimonial-card">
-              <div className="stars"><div className="star"></div><div className="star"></div><div className="star"></div><div className="star"></div><div className="star"></div></div>
-              <p className="testimonial-text">"They built the whole thing from my Google Business page. Looked exactly like my business. I updated my service list myself in about two minutes."</p>
-              <p className="testimonial-author"><strong>Carol T.</strong>HVAC, Adair County</p>
-            </div>
-            <div className="testimonial-card">
-              <div className="stars"><div className="star"></div><div className="star"></div><div className="star"></div><div className="star"></div><div className="star"></div></div>
-              <p className="testimonial-text">"No contracts, no nonsense. I own my domain and I can edit my site myself. That's all I wanted — and that's exactly what I got."</p>
-              <p className="testimonial-author"><strong>James R.</strong>Electrician, Guthrie County</p>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
       <section className="bg-white">
         <div className="final-cta">
